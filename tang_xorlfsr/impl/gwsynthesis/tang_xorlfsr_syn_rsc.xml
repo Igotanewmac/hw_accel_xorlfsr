@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="top" Register="136" Lut="8">
+    <SubModule name="mylfsr_0" Register="17" Lut="19"/>
+    <SubModule name="mylfsr_1" Register="17" Lut="18"/>
+    <SubModule name="mylfsr_2" Register="17" Lut="18"/>
+    <SubModule name="mylfsr_3" Register="17" Lut="18"/>
+    <SubModule name="mylfsr_4" Register="17" Lut="18"/>
+    <SubModule name="mylfsr_5" Register="17" Lut="18"/>
+    <SubModule name="mylfsr_6" Register="17" Lut="18"/>
+    <SubModule name="mylfsr_7" Register="17" Lut="18"/>
+</Module>

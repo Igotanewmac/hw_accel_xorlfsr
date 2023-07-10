@@ -1,0 +1,39 @@
+IO_LOC  "streamdata" 27;
+
+IO_LOC  "setseed" 79;
+
+IO_LOC  "seeddata" 86;
+
+IO_LOC  "dataclk" 49;
+
+IO_LOC  "dataout[7]" 48;
+
+IO_LOC  "dataout[6]" 51;
+
+IO_LOC  "dataout[5]" 74;
+
+IO_LOC  "dataout[4]" 73;
+
+IO_LOC  "dataout[3]" 41;
+
+IO_LOC  "dataout[2]" 42;
+
+IO_LOC  "dataout[1]" 80;
+
+IO_LOC  "dataout[0]" 76;
+
+IO_LOC  "datain[7]" 75;
+
+IO_LOC  "datain[6]" 85;
+
+IO_LOC  "datain[5]" 28;
+
+IO_LOC  "datain[4]" 25;
+
+IO_LOC  "datain[3]" 26;
+
+IO_LOC  "datain[2]" 29;
+
+IO_LOC  "datain[1]" 30;
+
+IO_LOC  "datain[0]" 31;

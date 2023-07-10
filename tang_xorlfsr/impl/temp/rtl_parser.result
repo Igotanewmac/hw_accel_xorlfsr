@@ -1,0 +1,76 @@
+[
+ {
+  "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+  "InstLine" : 6,
+  "InstName" : "top",
+  "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+  "ModuleLine" : 6,
+  "ModuleName" : "top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 24,
+    "InstName" : "mylfsr_0",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 25,
+    "InstName" : "mylfsr_1",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 26,
+    "InstName" : "mylfsr_2",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 27,
+    "InstName" : "mylfsr_3",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 28,
+    "InstName" : "mylfsr_4",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 29,
+    "InstName" : "mylfsr_5",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 30,
+    "InstName" : "mylfsr_6",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   },
+   {
+    "InstFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "InstLine" : 31,
+    "InstName" : "mylfsr_7",
+    "ModuleFile" : "C:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/tang_xorlfsr/src/top.v",
+    "ModuleLine" : 78,
+    "ModuleName" : "linearfeedbackshiftregister16"
+   }
+  ]
+ }
+]
