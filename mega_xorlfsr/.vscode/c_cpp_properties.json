@@ -8,12 +8,12 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/include",
-                "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/src",
-                "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/lib/tanglib",
+                "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/include",
+                "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/src",
+                "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/lib/tanglib",
                 "C:/Users/james/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/james/.platformio/packages/framework-arduino-avr/variants/mega",
-                "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/.pio/libdeps/megaatmega2560/Unity/src",
+                "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/.pio/libdeps/megaatmega2560/Unity/src",
                 "C:/Users/james/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/james/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/james/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -24,12 +24,12 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/include",
-                    "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/src",
-                    "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/lib/tanglib",
+                    "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/include",
+                    "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/src",
+                    "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/lib/tanglib",
                     "C:/Users/james/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/james/.platformio/packages/framework-arduino-avr/variants/mega",
-                    "c:/Users/james/OneDrive/verilog/hardware_accel/xorlfsr/mega_xorlfsr/.pio/libdeps/megaatmega2560/Unity/src",
+                    "c:/Users/james/OneDrive/verilog/hardware_accel/hw_accel_xorlfsr/mega_xorlfsr/.pio/libdeps/megaatmega2560/Unity/src",
                     "C:/Users/james/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/james/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/james/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
